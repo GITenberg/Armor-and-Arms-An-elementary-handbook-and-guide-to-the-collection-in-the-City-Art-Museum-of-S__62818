@@ -1,5 +1,8 @@
 _repo: Armor-and-Arms-An-elementary-handbook-and-guide-to-the-collection-in-the-City-Art-Museum-of-S__62818
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62818-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoopes, Thomas T.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52142'
     url: http://www.gutenberg.org/2009/agents/52142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62818#Armor-and-Arms-An-elementary-handbook-and-guide-to-the-collection-in-the-City-Art-Museum-of-S_
 gutenberg_issued: '2020-08-02'
 gutenberg_type: Text
 identifiers:
